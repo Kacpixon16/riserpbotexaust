@@ -1,0 +1,14 @@
+{
+  "name": "Discord-Bot-Maker-Bot",
+  "author": "Robert Borghese",
+  "main": "bot.js",
+  "version": "1.2.9",
+  "dependencies": {
+    "discord.js": "^12.2.0",
+    "fstorm": "latest",
+    "gamedig": "^2.0.23",
+    "jimp": "latest",
+    "node-cron": "^2.0.3",
+    "request": "^2.88.2"
+  }
+}
